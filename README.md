@@ -5,7 +5,7 @@
 <repositories>
     <repository>
     	<id>ZFly</id>
-        <url>https://raw.githubusercontent.com/ZhangFly/master/mvn-repo</url>
+        <url>https://raw.githubusercontent.com/ZhangFly/mvn-repo/master</url>
     </repository>
 </repositories>
 ```

@@ -16,11 +16,12 @@
 
     <build>
         <defaultGoal>deploy</defaultGoal>
+        <sourceDirectory>src</sourceDirectory>
         <resources>
             <resource>
-                <directory>./</directory>
+                <directory>src</directory>
                 <includes>
-                    <include>pom.xml</include>
+                    <include>spring.wtf.socket.xml</include>
                 </includes>
             </resource>
         </resources>
