@@ -3,20 +3,10 @@
   <groupId>ZFly</groupId>
   <artifactId>wtfsocket-server</artifactId>
   <versioning>
-    <release>1.0.6</release>
+    <release>1.0.7</release>
     <versions>
-      <version>1.0.0</version>
-      <version>1.0.1</version>
-      <version>1.0.2</version>
-      <version>1.0.3</version>
-      <version>1.0.4</version>
-      <version>1.0.5</version>
-      <version>1.0.6</version>
+      <version>1.0.7</version>
     </versions>
-<<<<<<< HEAD
-    <lastUpdated>20170502035608</lastUpdated>
-=======
-    <lastUpdated>20170502004821</lastUpdated>
->>>>>>> 83ee0bf46993b9d3873fa797f9ae801fc43440c2
+    <lastUpdated>20170502041242</lastUpdated>
   </versioning>
 </metadata>
